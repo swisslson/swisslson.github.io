@@ -646,10 +646,10 @@ progress {
   margin-right: auto;
   margin-left: auto;
 }
-
+/*teste max-width de 540px a 100%pour la version mobile*/
 @media (min-width: 576px) {
   .container-sm, .container {
-    max-width: 540px;
+    max-width: 100%;
   }
 }
 @media (min-width: 768px) {
