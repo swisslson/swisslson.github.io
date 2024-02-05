@@ -3842,7 +3842,7 @@ textarea.form-control-lg {
 .navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
-  /* teste pour le scroll horizontal telephone margin-right: var(--bs-navbar-brand-margin-end)*/;
+  margin-right: var(--bs-navbar-brand-margin-end);
   font-size: var(--bs-navbar-brand-font-size);
   color: var(--bs-navbar-brand-color);
   text-decoration: none;
